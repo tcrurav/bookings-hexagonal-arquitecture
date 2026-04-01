@@ -1,6 +1,6 @@
 [English](README.md) | [Español](README.es.md)
 
-# Reservas Hexagonal - Node/Express/Sequelize + React
+# Ejemplo de Applicación para Gestión de Reservas con Arquitectura Hexagonal - Node/Express/Sequelize + React
 
 Plantilla sencilla de una aplicación de gestión de reservas con arquitectura hexagonal.
 

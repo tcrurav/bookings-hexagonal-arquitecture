@@ -2,7 +2,7 @@
 
 <!-- README.md defaults to English. Click a language above to view the other file. -->
 
-# Reservations Hexagonal - Node/Express/Sequelize + React
+# Booking App Example using Hexagonal Architecture - Node/Express/Sequelize + React
 
 Simple template for a reservation management application using hexagonal architecture.
 
