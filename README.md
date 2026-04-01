@@ -33,6 +33,10 @@ frontend-react/
     shared/
 ```
 
+## In an image
+
+![Hexagonal architecture diagram](docs/screenshot-02.png)
+
 ## Requirements
 
 - Node.js 20 or newer
