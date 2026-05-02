@@ -1,4 +1,4 @@
-FROM node:24-alpine AS build
+FROM node:24 AS build
 
 WORKDIR /app
 
@@ -8,7 +8,7 @@ RUN npm install
 COPY . .
 RUN npm run build
 
-FROM nginx:stable-alpine
+FROM nginx
 COPY --from=build /app/dist /usr/share/nginx/html
 
 EXPOSE 80
